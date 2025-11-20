@@ -1,6 +1,6 @@
 import SiteLogo from "../atoms/siteLogo";
-import DesktopMenu from "./desktopMenu";
-import MobileMenu from "./mobileMenu";
+import DesktopMenu from "../Molecules/desktopMenu";
+import MobileMenu from "../Molecules/mobileMenu";
 
 export default function Navbar() {
   return (

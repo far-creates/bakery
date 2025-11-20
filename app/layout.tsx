@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Sansita_Swashed, Poppins, Inter } from "next/font/google";
 import "./globals.css";
-import Navbar from "@/components/Molecules/navbar";
+import Navbar from "@/components/Organisms/navbar";
 
 const sansita = Sansita_Swashed({
   variable: "--font-sansita",
